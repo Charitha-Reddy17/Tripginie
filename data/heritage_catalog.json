@@ -1,0 +1,407 @@
+{
+  "goa": [
+    {
+      "title": "Basilica of Bom Jesus",
+      "era": "1605 AD Baroque \u2022 UNESCO Site",
+      "description": "1605 AD Baroque \u2022 UNESCO Site \u2022 Catholic basilica in Old Goa, India",
+      "local_path": "assets/heritage/goa/bom_jesus.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Front_Elevation_of_Basilica_of_Bom_Jesus.jpg/330px-Front_Elevation_of_Basilica_of_Bom_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Fort Aguada & Lighthouse",
+      "era": "1612 AD Portuguese Coastal Fort",
+      "description": "1612 AD Portuguese Coastal Fort \u2022 Historic site in Goa, India",
+      "local_path": "assets/heritage/goa/aguada_fort.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Fort_aguada.jpg/330px-Fort_aguada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Chapora Fort",
+      "era": "1717 AD Historic Red Laterite Bastion",
+      "description": "1717 AD Historic Red Laterite Bastion \u2022 Fort in Goa, India",
+      "local_path": "assets/heritage/goa/chapora_fort.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Fort_Chapora_26012016.jpg/330px-Fort_Chapora_26012016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "jaipur": [
+    {
+      "title": "Hawa Mahal (Palace of Winds)",
+      "era": "1799 AD Rajput Architecture",
+      "description": "1799 AD Rajput Architecture \u2022 Palace in Jaipur, Rajasthan, India",
+      "local_path": "assets/heritage/jaipur/hawa_mahal.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/330px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Amber Fort",
+      "era": "1592 AD Hilltop Palace \u2022 UNESCO Site",
+      "description": "1592 AD Hilltop Palace \u2022 UNESCO Site \u2022 World Heritage Site in India",
+      "local_path": "assets/heritage/jaipur/amber_fort.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg/330px-20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "City Palace",
+      "era": "1727 AD Royal Courtyards",
+      "description": "1727 AD Royal Courtyards \u2022 Building in Rajasthan, India",
+      "local_path": "assets/heritage/jaipur/city_palace.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg/330px-Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "agra": [
+    {
+      "title": "Taj Mahal",
+      "era": "1632 AD Mughal Marble \u2022 UNESCO Wonder",
+      "description": "1632 AD Mughal Marble \u2022 UNESCO Wonder \u2022 Marble mausoleum in Agra, India",
+      "local_path": "assets/heritage/agra/taj_mahal.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Agra Fort",
+      "era": "1565 AD Red Sandstone Citadel \u2022 UNESCO Site",
+      "description": "1565 AD Red Sandstone Citadel \u2022 UNESCO Site \u2022 Historical Mughal fort in India",
+      "local_path": "assets/heritage/agra/agra_fort.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Agra_03-2016_16_Agra_Fort.jpg/330px-Agra_03-2016_16_Agra_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Fatehpur Sikri",
+      "era": "1571 AD Imperial City \u2022 UNESCO Site",
+      "description": "1571 AD Imperial City \u2022 UNESCO Site \u2022 Town in Uttar Pradesh, India",
+      "local_path": "assets/heritage/agra/fatehpur_sikri.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/330px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "hyderabad": [
+    {
+      "title": "Charminar",
+      "era": "1591 AD Historic Four Minarets",
+      "description": "1591 AD Historic Four Minarets \u2022 Monument in India",
+      "local_path": "assets/heritage/hyderabad/charminar.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/330px-Charminar_Hyderabad_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Golconda Fort",
+      "era": "1518 AD Qutb Shahi Citadel",
+      "description": "1518 AD Qutb Shahi Citadel \u2022 11th-century citadel in Telangana, India",
+      "local_path": "assets/heritage/hyderabad/golconda.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/330px-Golconda_Fort_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Chowmahalla Palace",
+      "era": "1750 AD Nizam Royal Palace",
+      "description": "1750 AD Nizam Royal Palace \u2022 Royal palace in Telangana, India",
+      "local_path": "assets/heritage/hyderabad/chowmahalla.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/330px-Chowmahalla_Palace_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "varanasi": [
+    {
+      "title": "Dashashwamedh Ghat",
+      "era": "Ancient Sacred Ganga Ghat",
+      "description": "Ancient Sacred Ganga Ghat \u2022 Ghat in Varanasi, India",
+      "local_path": "assets/heritage/varanasi/ghats.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Dasaswamedh_ghat-varanasi_india-andres_larin.jpg/330px-Dasaswamedh_ghat-varanasi_india-andres_larin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Kashi Vishwanath Temple",
+      "era": "Historic Jyotirlinga Shrine",
+      "description": "Historic Jyotirlinga Shrine \u2022 Hindu temple in Varanasi, Uttar Pradesh, India",
+      "local_path": "assets/heritage/varanasi/kashi_vishwanath.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/330px-Kashi_Vishwanath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Dhamek Stupa at Sarnath",
+      "era": "500 CE Buddhist Heritage",
+      "description": "500 CE Buddhist Heritage \u2022 Post Gupta-era stupa at Sarnath, Uttar Pradesh, India",
+      "local_path": "assets/heritage/varanasi/sarnath.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dhamek_Stupa%2C_Sarnath.jpg/330px-Dhamek_Stupa%2C_Sarnath.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "hampi": [
+    {
+      "title": "Virupaksha Temple",
+      "era": "7th Century AD \u2022 UNESCO Complex",
+      "description": "7th Century AD \u2022 UNESCO Complex \u2022 Temple in Karnataka, India",
+      "local_path": "assets/heritage/hampi/virupaksha.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg/330px-Complex_of_Virupaksha_Temple%2C_Hampi_%2804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Lotus Mahal",
+      "era": "16th Century Vijayanagara Palace",
+      "description": "16th Century Vijayanagara Palace \u2022 Building in Karnataka, India",
+      "local_path": "assets/heritage/hampi/lotus_mahal.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Flat_elevation_of_Lotus_Mahal%2C_Hampi_%28Closeup%29.jpg/330px-Flat_elevation_of_Lotus_Mahal%2C_Hampi_%28Closeup%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Elephant Stables",
+      "era": "Indo-Islamic Architectural Marvel",
+      "description": "Indo-Islamic Architectural Marvel",
+      "local_path": "",
+      "remote_url": ""
+    },
+    {
+      "title": "Stone Chariot & Sacred Hampi Ruins",
+      "era": "15th Century AD \u2022 UNESCO World Heritage Site",
+      "description": "Architectural marvel of the Vijayanagara Empire dedicated to Garuda",
+      "local_path": "assets/heritage/hampi/stone_chariot.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg"
+    }
+  ],
+  "visakhapatnam": [
+    {
+      "title": "INS Kursura Submarine Museum",
+      "era": "Naval Heritage on RK Beach",
+      "description": "Naval Heritage on RK Beach \u2022 Indian Kalvari-class submarine",
+      "local_path": "assets/heritage/visakhapatnam/kursura.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/INS_Kursura_%28S20%29_underway.jpg/330px-INS_Kursura_%28S20%29_underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Borra Caves",
+      "era": "Million-Year-Old Stalactites",
+      "description": "Million-Year-Old Stalactites \u2022 Place in Andhra Pradesh, India",
+      "local_path": "assets/heritage/visakhapatnam/borra_caves.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borra_caves%2C_Viskhapatnam.jpg/330px-Borra_caves%2C_Viskhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Thotlakonda Buddhist Complex",
+      "era": "3rd Century BCE Buddhist Monastery Hill",
+      "description": "3rd Century BCE Buddhist Monastery Hill \u2022 Protected Buddhist Monument in Andhra Pradesh, India",
+      "local_path": "assets/heritage/visakhapatnam/thotlakonda.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Totlakonda_entrance.jpg/330px-Totlakonda_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "pondicherry": [
+    {
+      "title": "Matrimandir",
+      "era": "Golden Geodesic Meditation Dome",
+      "description": "Golden Geodesic Meditation Dome \u2022 Spiritual building in Tamil Nadu, India",
+      "local_path": "assets/heritage/pondicherry/matrimandir.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Matrimandir_in_Auroville%2C_Tamil_Nadu%2C_India.jpg/330px-The_Matrimandir_in_Auroville%2C_Tamil_Nadu%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Sri Aurobindo Ashram",
+      "era": "1926 Spiritual Sanctuary",
+      "description": "1926 Spiritual Sanctuary \u2022 Spiritual community in Pondicherry",
+      "local_path": "assets/heritage/pondicherry/aurobindo.jpg",
+      "remote_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The-Mothers-Symbol.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "title": "Promenade Heritage Beach & French Quarter",
+      "era": "French Colonial Seaside Heritage",
+      "description": "French Colonial Seaside Heritage \u2022 Topics referred to by the same term",
+      "local_path": "",
+      "remote_url": ""
+    },
+    {
+      "title": "Promenade Beach & French Colonial Quarter",
+      "era": "Colonial French Architecture & War Memorial",
+      "description": "Historic seaside boulevard lined with yellow colonial villas and the French War Memorial",
+      "local_path": "assets/heritage/pondicherry/promenade.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/French_War_memorial.JPG/330px-French_War_memorial.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "manali": [
+    {
+      "title": "Hidimba Devi Temple",
+      "era": "1553 AD Pagoda Wooden Temple",
+      "description": "1553 AD Pagoda Wooden Temple \u2022 Hindu temple in Himachal Pradesh, India",
+      "local_path": "assets/heritage/manali/hadimba.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF/lossy-page1-330px-Hidimba_Devi_Temple_-_North-east_View_-_Manali_2014-05-11_2648-2649.TIF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Naggar Castle",
+      "era": "1460 AD Medieval Himalayan Palace",
+      "description": "1460 AD Medieval Himalayan Palace \u2022 Medieval castle, located in Kullu, Himachal Pradesh, India",
+      "local_path": "assets/heritage/manali/naggar_castle.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Naggar_Castle_-_2.jpg/330px-Naggar_Castle_-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Solang Valley & Rohtang Alpine Peaks",
+      "era": "Himalayan Alpine & Glacial Landscapes",
+      "description": "Himalayan Alpine & Glacial Landscapes \u2022 Valley in Himachal Pradesh, India",
+      "local_path": "assets/heritage/manali/solang.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG/330px-Solang_Valley_%2CManali%2C_Himachal_Pardes%2C_India.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "shimla": [
+    {
+      "title": "Viceregal Lodge (Rashtrapati Niwas)",
+      "era": "1888 Colonial Heritage",
+      "description": "1888 Colonial Heritage \u2022 Former residence of the British Viceroy of India in Shimla, Himachal Pradesh",
+      "local_path": "assets/heritage/shimla/viceregal.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Viceregal_Lodge%2C_Simla%2C_India.jpg/330px-Viceregal_Lodge%2C_Simla%2C_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Christ Church Ridge",
+      "era": "1857 Neo-Gothic Landmark",
+      "description": "1857 Neo-Gothic Landmark \u2022 Anglican church in Shimla, India",
+      "local_path": "assets/heritage/shimla/christ_church.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Christ_Church%2C_Shimla.jpg/330px-Christ_Church%2C_Shimla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Jakhu Temple & Himalayan Ridge",
+      "era": "Historic Ridge Sanctuary & Alpine Views",
+      "description": "Historic Ridge Sanctuary & Alpine Views \u2022 Hindu temple in Shimla, India",
+      "local_path": "assets/heritage/shimla/jakhu.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Jakhoo_temple.jpg/330px-Jakhoo_temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "ooty": [
+    {
+      "title": "Nilgiri Mountain Railway",
+      "era": "1908 UNESCO Heritage Steam Train",
+      "description": "1908 UNESCO Heritage Steam Train \u2022 Heritage rail line in India",
+      "local_path": "assets/heritage/ooty/toy_train.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/NMR_train_at_Ketti_05-02-26_75.jpeg/330px-NMR_train_at_Ketti_05-02-26_75.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Government Botanical Gardens",
+      "era": "1848 Colonial Gardens",
+      "description": "1848 Colonial Gardens \u2022 Botanical garden in Tamil Nadu, India",
+      "local_path": "assets/heritage/ooty/botanical_garden.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Botanical_Gardens_-_Ootacamund_%28Ooty%29_-_India_03.JPG/330px-Botanical_Gardens_-_Ootacamund_%28Ooty%29_-_India_03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Ooty Lake & Western Ghats",
+      "era": "1824 British Era Artificial Lake",
+      "description": "1824 British Era Artificial Lake \u2022 Artificial lake in Tamil Nadu, India",
+      "local_path": "assets/heritage/ooty/ooty_lake.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Ooty_Lake_in_Tamil_Nadu_04.jpg/330px-Ooty_Lake_in_Tamil_Nadu_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "munnar": [
+    {
+      "title": "Munnar Tea Hills",
+      "era": "Heritage Tea Plantations & Shola Hills",
+      "description": "Heritage Tea Plantations & Shola Hills \u2022 Town in Kerala, India",
+      "local_path": "assets/heritage/munnar/tea_museum.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/330px-Munnar_Overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Mattupetty Lake & Heritage Dam",
+      "era": "1940s Hydro-Engineering in Shola Forests",
+      "description": "Scenic storage reservoir and tea garden vistas in the Western Ghats",
+      "local_path": "assets/heritage/munnar/mattupetty.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mattupetty_Dam.jpg/330px-Mattupetty_Dam.jpg"
+    },
+    {
+      "title": "Eravikulam Heritage Shola Forest",
+      "era": "High-Altitude Shola Ecosystem & Anamudi",
+      "description": "High-Altitude Shola Ecosystem & Anamudi \u2022 National park in India",
+      "local_path": "assets/heritage/munnar/eravikulam.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Eravikulam_National_Park_%2849444006652%29.jpg/330px-Eravikulam_National_Park_%2849444006652%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "araku": [
+    {
+      "title": "Borra Caves & Tribal Valley",
+      "era": "Prehistoric Karstic Caverns",
+      "description": "Prehistoric Karstic Caverns \u2022 Place in Andhra Pradesh, India",
+      "local_path": "assets/heritage/araku/borra_caves.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borra_caves%2C_Viskhapatnam.jpg/330px-Borra_caves%2C_Viskhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Araku Tribal Heritage & Coffee Valley",
+      "era": "Indigenous Arts & Traditional Craft Culture",
+      "description": "Preserves native tribal handicrafts, Dhimsa dance heritage, and organic high-altitude coffee cultivation",
+      "local_path": "assets/heritage/araku/tribal_museum.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borra_Caves%2C_Visakhapatnam.jpg/330px-Borra_Caves%2C_Visakhapatnam.jpg"
+    },
+    {
+      "title": "Katiki Waterfalls & Forest Valleys",
+      "era": "Gosthani River Karst Formations",
+      "description": "Gosthani River Karst Formations \u2022 Hill Station in Andhra Pradesh, India",
+      "local_path": "assets/heritage/araku/katiki.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Araku-valley.jpg/330px-Araku-valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "bengaluru": [
+    {
+      "title": "Bengaluru Palace",
+      "era": "1878 Tudor-Revival Palace",
+      "description": "1878 Tudor-Revival Palace \u2022 Royal palace in India",
+      "local_path": "assets/heritage/bengaluru/bangalore_palace.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg/330px-Bangalore_Mysore_Maharaja_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Tipu Sultan Summer Palace",
+      "era": "1791 Teakwood Architecture",
+      "description": "1791 Teakwood Architecture \u2022 Building in Bangalore, India",
+      "local_path": "assets/heritage/bengaluru/tipu_palace.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tippu_Sultan%27s_Summer_palace.jpg/330px-Tippu_Sultan%27s_Summer_palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Lalbagh Botanical Garden Glass House",
+      "era": "1889 Victorian Glass Architecture",
+      "description": "1889 Victorian Glass Architecture \u2022 Botanical Garden in Karnataka, India",
+      "local_path": "assets/heritage/bengaluru/lalbagh.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg/330px-Glasshouse_and_fountain_at_lalbagh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "delhi": [
+    {
+      "title": "Red Fort (Lal Qila)",
+      "era": "1648 Mughal Palace \u2022 UNESCO Site",
+      "description": "1648 Mughal Palace \u2022 UNESCO Site \u2022 Historical Mughal fort in Delhi, India",
+      "local_path": "assets/heritage/delhi/red_fort.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Delhi_fort.jpg/330px-Delhi_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Qutb Minar",
+      "era": "1192 AD Minaret \u2022 UNESCO Site",
+      "description": "1192 AD Minaret \u2022 UNESCO Site \u2022 Minaret in the Mehrauli area of Delhi, India",
+      "local_path": "assets/heritage/delhi/qutb_minar.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/330px-Qutb_Minar_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "India Gate",
+      "era": "1931 Memorial Arch",
+      "description": "1931 Memorial Arch \u2022 War memorial arch in New Delhi, India",
+      "local_path": "assets/heritage/delhi/india_gate.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/India_Gate_front.jpg/330px-India_Gate_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "vizag": [
+    {
+      "title": "INS Kursura Submarine Museum",
+      "era": "Naval Heritage on RK Beach",
+      "description": "Naval Heritage on RK Beach \u2022 Indian Kalvari-class submarine",
+      "local_path": "assets/heritage/visakhapatnam/kursura.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/INS_Kursura_%28S20%29_underway.jpg/330px-INS_Kursura_%28S20%29_underway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Borra Caves",
+      "era": "Million-Year-Old Stalactites",
+      "description": "Million-Year-Old Stalactites \u2022 Place in Andhra Pradesh, India",
+      "local_path": "assets/heritage/visakhapatnam/borra_caves.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Borra_caves%2C_Viskhapatnam.jpg/330px-Borra_caves%2C_Viskhapatnam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Thotlakonda Buddhist Complex",
+      "era": "3rd Century BCE Buddhist Monastery Hill",
+      "description": "3rd Century BCE Buddhist Monastery Hill \u2022 Protected Buddhist Monument in Andhra Pradesh, India",
+      "local_path": "assets/heritage/visakhapatnam/thotlakonda.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Totlakonda_entrance.jpg/330px-Totlakonda_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "bangalore": [
+    {
+      "title": "Bengaluru Palace",
+      "era": "1878 Tudor-Revival Palace",
+      "description": "1878 Tudor-Revival Palace \u2022 Royal palace in India",
+      "local_path": "assets/heritage/bengaluru/bangalore_palace.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg/330px-Bangalore_Mysore_Maharaja_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Tipu Sultan Summer Palace",
+      "era": "1791 Teakwood Architecture",
+      "description": "1791 Teakwood Architecture \u2022 Building in Bangalore, India",
+      "local_path": "assets/heritage/bengaluru/tipu_palace.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tippu_Sultan%27s_Summer_palace.jpg/330px-Tippu_Sultan%27s_Summer_palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "title": "Lalbagh Botanical Garden Glass House",
+      "era": "1889 Victorian Glass Architecture",
+      "description": "1889 Victorian Glass Architecture \u2022 Botanical Garden in Karnataka, India",
+      "local_path": "assets/heritage/bengaluru/lalbagh.jpg",
+      "remote_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg/330px-Glasshouse_and_fountain_at_lalbagh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ]
+}

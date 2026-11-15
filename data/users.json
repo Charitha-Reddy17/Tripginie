@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "usr_001",
+      "name": "Charitha",
+      "email": "charitha@tripgenie.com",
+      "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "role": "Lead Student Researcher & Explorer",
+      "phone": "+91 98765 43210",
+      "home_city": "Hyderabad",
+      "travel_style": "Heritage & Culture",
+      "joined_date": "2026-01-15",
+      "avatar_emoji": "\ud83c\udf93"
+    },
+    {
+      "id": "usr_002",
+      "name": "Demo Explorer",
+      "email": "demo@tripgenie.com",
+      "password_hash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+      "role": "Verified Project Reviewer",
+      "phone": "+91 91234 56789",
+      "home_city": "Vijayawada",
+      "travel_style": "Relaxed",
+      "joined_date": "2026-03-10",
+      "avatar_emoji": "\ud83e\udded"
+    },
+    {
+      "id": "usr_003",
+      "name": "cherry",
+      "email": "soreddycharithareddy@gmail.com",
+      "password_hash": "9345eabfdd8ca0891a155633adbf994bc479ad7389f5b66a260f2c7a0d44534a",
+      "role": "Student Explorer",
+      "phone": "+91 98000 00000",
+      "home_city": "guntur",
+      "travel_style": "Adventurous",
+      "joined_date": "2026-11-15",
+      "avatar_emoji": "\ud83c\udf92"
+    }
+  ],
+  "trips": [
+    {
+      "id": "trip_001",
+      "user_email": "charitha@tripgenie.com",
+      "destination": "Goa",
+      "origin": "Hyderabad",
+      "duration": 3,
+      "mood": "Relaxed",
+      "mode": "Train",
+      "budget": 4950,
+      "status": "Upcoming",
+      "highlights": [
+        "Basilica of Bom Jesus",
+        "Aguada Fort",
+        "Sunset Cruise"
+      ],
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "trip_002",
+      "user_email": "charitha@tripgenie.com",
+      "destination": "Araku",
+      "origin": "Visakhapatnam",
+      "duration": 2,
+      "mood": "Peaceful",
+      "mode": "Train",
+      "budget": 3200,
+      "status": "Planned",
+      "highlights": [
+        "Borra Caves Stalactites",
+        "Tribal Museum",
+        "Organic Coffee Plantations"
+      ],
+      "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "trip_003",
+      "user_email": "charitha@tripgenie.com",
+      "destination": "Jaipur",
+      "origin": "Hyderabad",
+      "duration": 4,
+      "mood": "Adventurous",
+      "mode": "Flight",
+      "budget": 9800,
+      "status": "Completed",
+      "highlights": [
+        "Amber Fort UNESCO Walk",
+        "Hawa Mahal",
+        "City Palace"
+      ],
+      "image": "https://images.unsplash.com/photo-1603288967396-85614995a94a?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+}
